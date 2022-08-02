@@ -5,12 +5,6 @@ i am a freelance developer currently working for [software costs](softwarecosts.
 <!-- Hero Section -->
 <p align="center"><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/img/programming1.webp" alt="A software engineer is writing code" width="700" /><img src="https://activity-graph.herokuapp.com/graph?username=royrustdev&theme=react-dark" alt="Nrishinghananda Roy's github activity graph" /><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/output/snake-anime.svg" alt="Github Snake Animation"></p>
 
-<!-- Profile Views -->
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=royrustdev&label=Github%20Profile%20Views&color=blueviolet&style=flat-square" alt="royrustdev" />
-<a href="https://twitter.com/royrustdev" target="_blank">
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/royrustdev?color=blue&logo=Twitter&style=flat-square">
-</a>
 <a href="https://www.reddit.com/user/royrustdev/" target="_blank">
 <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/royrustdev?logo=Reddit&style=flat-square">
 </a>
@@ -43,10 +37,7 @@ i am a freelance developer currently working for [software costs](softwarecosts.
 </tr>
 </table>
 
-<!-- Github Stats, coding streak, Most used languages analytics-->
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=royrustdev&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for MishManners" width="700"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=royrustdev&theme=jolly" width="700"/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=royrustdev&show_icons=true&locale=en&layout=compact&theme=jolly" alt="Most Used Languages analytics" width="700"/>
 </p>
 
